@@ -1,0 +1,2 @@
+The initial data file used in this analysis, Continente_CAOP2024.pgkg, exceeds GitHub's file upload limit and is therefore not included in this repository.
+To access it, please download the file directly from the official source: https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop?utm_source 
