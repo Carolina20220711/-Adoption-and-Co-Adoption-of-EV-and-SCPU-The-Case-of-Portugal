@@ -1,0 +1,9 @@
+The file UNOVA - Carolina de Oliveira - Vendas por distrito - 2011 a 2024.xlsx is not included in this repository due to GitHub's file size limitations.
+To request this dataset, ask for:
+Vehicle sales data broken down by:
+- Year and month;
+- Sales district/area;
+- Energy type (e.g., BEV, GNC, etc.);
+- Category (e.g., Ligeiro, Pesado, etc.);
+- Type (e.g., Passageiros, Mercadorias
+This information was provided upon request by ACAP and covers the years 2011 to 2024.
